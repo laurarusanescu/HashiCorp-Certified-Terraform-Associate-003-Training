@@ -1,7 +1,5 @@
 # Lesson 2.2 – What is Terraform?  
 
-![Terraform](https://img.shields.io/badge/Terraform-CLI-blueviolet?logo=terraform)
-![Lesson](https://img.shields.io/badge/Lesson-2.2-lightblue)
 
 ---
 
@@ -62,8 +60,6 @@
 
   # Lesson 2.3 – Why Use Terraform?  
 
-![Terraform](https://img.shields.io/badge/Terraform-HCL-blueviolet?logo=terraform)
-![Lesson](https://img.shields.io/badge/Lesson-2.3-lightblue)
 
 ---
 
